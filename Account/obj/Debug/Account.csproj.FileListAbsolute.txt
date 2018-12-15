@@ -1,0 +1,509 @@
+D:\progaming\StorMamagent10\StorManagemt01\StoreMaga0101\Account\bin\Debug\Account.pdb
+D:\progaming\StorMamagent10\StorManagemt01\StoreMaga0101\Account\obj\Debug\Account.frmAcount.resources
+D:\progaming\StorMamagent10\StorManagemt01\StoreMaga0101\Account\obj\Debug\Account.Properties.Resources.resources
+D:\progaming\StorMamagent10\StorManagemt01\StoreMaga0101\Account\obj\Debug\Account.csproj.GenerateResource.Cache
+D:\progaming\StorMamagent10\StorManagemt01\StoreMaga0101\Account\obj\Debug\Account.pdb
+D:\progaming\StorMamagent10\StorManagemt01\StoreMaga0101\Account\obj\Debug\Account.frmSearchAccountNM.resources
+D:\progaming\StorMamagent10\StorManagemt01\StoreMaga0101\Account\bin\Debug\Account.dll.config
+D:\progaming\StorMamagent10\StorManagemt01\StoreMaga0101\Account\bin\Debug\Account.dll
+D:\progaming\StorMamagent10\StorManagemt01\StoreMaga0101\Account\obj\Debug\Account.dll
+D:\progaming\StorManagent01\StorManagemt01\StoreMaga0101\Account\bin\Debug\Account.pdb
+D:\progaming\StorManagent01\StorManagemt01\StoreMaga0101\Account\obj\Debug\Account.frmAcount.resources
+D:\progaming\StorManagent01\StorManagemt01\StoreMaga0101\Account\obj\Debug\Account.frmSearchAccountNM.resources
+D:\progaming\StorManagent01\StorManagemt01\StoreMaga0101\Account\obj\Debug\Account.Properties.Resources.resources
+D:\progaming\StorManagent01\StorManagemt01\StoreMaga0101\Account\obj\Debug\Account.csproj.GenerateResource.Cache
+D:\progaming\StorManagent01\StorManagemt01\StoreMaga0101\Account\obj\Debug\Account.pdb
+D:\progaming\StorManagent01\StorManagemt01\StoreMaga0101\Account\bin\Debug\Account.dll.config
+D:\progaming\StorManagent01\StorManagemt01\StoreMaga0101\Account\bin\Debug\Account.dll
+D:\progaming\StorManagent01\StorManagemt01\StoreMaga0101\Account\obj\Debug\Account.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\Account.pdb
+D:\programing1\StoreMaga0101\Account\obj\Debug\Account.frmAcount.resources
+D:\programing1\StoreMaga0101\Account\obj\Debug\Account.frmSearchAccountNM.resources
+D:\programing1\StoreMaga0101\Account\obj\Debug\Account.Properties.Resources.resources
+D:\programing1\StoreMaga0101\Account\obj\Debug\Account.csproj.GenerateResource.Cache
+D:\programing1\StoreMaga0101\Account\obj\Debug\Account.pdb
+D:\programing1\StoreMaga0101\Account\bin\Debug\FrmRports.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\Users.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\CrystalDecisions.Shared.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\FlashControlV71.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\stdole.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\ShockwaveFlashObjects.dll
+D:\programing1\StoreMaga0101\Account\bin\Debug\FrmRports.pdb
+D:\programing1\StoreMaga0101\Account\bin\Debug\Users.pdb
+D:\programing1\StoreMaga0101\Account\bin\Debug\Account.dll.config
+D:\programing1\StoreMaga0101\Account\bin\Debug\Account.dll
+D:\programing1\StoreMaga0101\Account\obj\Debug\Account.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\Account.dll.config
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\Account.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\Account.pdb
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\CrystalDecisions.Shared.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\FlashControlV71.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\stdole.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\bin\Debug\ShockwaveFlashObjects.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\obj\Debug\Account.frmAcount.resources
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\obj\Debug\Account.frmSearchAccountNM.resources
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\obj\Debug\Account.Properties.Resources.resources
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\obj\Debug\Account.SimpleConstraint.resources
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\obj\Debug\Account.csproj.GenerateResource.Cache
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\obj\Debug\Account.dll
+D:\programing1\StoreMaga0101\StoreMaga0101\Account\obj\Debug\Account.pdb
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\Account.dll.config
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\Account.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\Account.pdb
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.Shared.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\FlashControlV71.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\stdole.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\bin\Debug\ShockwaveFlashObjects.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\obj\Debug\Account.frmAcount.resources
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\obj\Debug\Account.frmSearchAccountNM.resources
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\obj\Debug\Account.Properties.Resources.resources
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\obj\Debug\Account.SimpleConstraint.resources
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\obj\Debug\Account.csproj.GenerateResource.Cache
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\obj\Debug\Account.dll
+D:\programing1\StoreMaga0101\StoreMaga0101 with host\Account\obj\Debug\Account.pdb
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\Account.dll.config
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\Account.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\Account.pdb
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.Shared.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\FlashControlV71.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\stdole.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\bin\Debug\ShockwaveFlashObjects.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\obj\Debug\Account.frmAcount.resources
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\obj\Debug\Account.frmSearchAccountNM.resources
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\obj\Debug\Account.Properties.Resources.resources
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\obj\Debug\Account.SimpleConstraint.resources
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\obj\Debug\Account.csproj.GenerateResource.Cache
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\obj\Debug\Account.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101 with host\Account\obj\Debug\Account.pdb
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\Account.dll.config
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\Account.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\Account.pdb
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.Shared.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\FlashControlV71.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\stdole.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\ShockwaveFlashObjects.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\obj\Debug\Account.csprojResolveAssemblyReference.cache
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\obj\Debug\Account.frmAcount.resources
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\obj\Debug\Account.frmSearchAccountNM.resources
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\obj\Debug\Account.Properties.Resources.resources
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\obj\Debug\Account.SimpleConstraint.resources
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\obj\Debug\Account.csproj.GenerateResource.Cache
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\obj\Debug\Account.dll
+D:\programing1\StoreMaga0101\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\obj\Debug\Account.pdb
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\Account.dll.config
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\Account.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\Account.pdb
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.Shared.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportSource.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.Windows.Forms.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\FlashControlV71.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\stdole.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\bin\Debug\ShockwaveFlashObjects.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\obj\Debug\Account.csprojResolveAssemblyReference.cache
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\obj\Debug\Account.frmAcount.resources
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\obj\Debug\Account.frmSearchAccountNM.resources
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\obj\Debug\Account.Properties.Resources.resources
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\obj\Debug\Account.SimpleConstraint.resources
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\obj\Debug\Account.csproj.GenerateResource.Cache
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\obj\Debug\Account.dll
+I:\StroreMaga0101hostNewDesgin\StoreMaga0101withhost\Account\obj\Debug\Account.pdb
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\Account.dll.config
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\Account.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\Account.pdb
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.Shared.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\FlashControlV71.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\stdole.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\bin\Debug\ShockwaveFlashObjects.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\obj\Debug\Account.frmAcount.resources
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\obj\Debug\Account.frmOut.resources
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\obj\Debug\Account.frmSearchAccountNM.resources
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\obj\Debug\Account.Properties.Resources.resources
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\obj\Debug\Account.frmIncoming.resources
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\obj\Debug\Account.csproj.GenerateResource.Cache
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\obj\Debug\Account.dll
+E:\programming\TestEbadSoft\StoreMaga0101withhost\Account\obj\Debug\Account.pdb
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\Account.exe.config
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\obj\Debug\Account.pdb
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\Account.exe
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\Account.pdb
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\FlashControlV71.dll
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\stdole.dll
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\obj\Debug\Account.csprojResolveAssemblyReference.cache
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\obj\Debug\Account.frmAcount.resources
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\obj\Debug\Account.frmOut.resources
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\obj\Debug\Account.frmSearchAccountNM.resources
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\obj\Debug\Account.Properties.Resources.resources
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\obj\Debug\Account.frmIncoming.resources
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\obj\Debug\Account.csproj.GenerateResource.Cache
+C:\Users\MOHAMMED ALHAZMI\Desktop\TestEbadSoft\Accounts\Account\obj\Debug\Account.exe
+D:\programing1\External agents\Accounts\Account\bin\Debug\Account.exe.config
+D:\programing1\External agents\Accounts\Account\obj\Debug\Account.exe
+D:\programing1\External agents\Accounts\Account\obj\Debug\Account.pdb
+D:\programing1\External agents\Accounts\Account\bin\Debug\Account.exe
+D:\programing1\External agents\Accounts\Account\bin\Debug\Account.pdb
+D:\programing1\External agents\Accounts\Account\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\programing1\External agents\Accounts\Account\bin\Debug\CrystalDecisions.Shared.dll
+D:\programing1\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\programing1\External agents\Accounts\Account\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\programing1\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\programing1\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\programing1\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\programing1\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\programing1\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\programing1\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\programing1\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\programing1\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\programing1\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\programing1\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\programing1\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\programing1\External agents\Accounts\Account\bin\Debug\FlashControlV71.dll
+D:\programing1\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\programing1\External agents\Accounts\Account\bin\Debug\stdole.dll
+D:\programing1\External agents\Accounts\Account\bin\Debug\ShockwaveFlashObjects.dll
+D:\programing1\External agents\Accounts\Account\obj\Debug\Account.csprojResolveAssemblyReference.cache
+D:\programing1\External agents\Accounts\Account\obj\Debug\Account.frmAcount.resources
+D:\programing1\External agents\Accounts\Account\obj\Debug\Account.frmOut.resources
+D:\programing1\External agents\Accounts\Account\obj\Debug\Account.frmSearchAccountNM.resources
+D:\programing1\External agents\Accounts\Account\obj\Debug\Account.Properties.Resources.resources
+D:\programing1\External agents\Accounts\Account\obj\Debug\Account.frmIncoming.resources
+D:\programing1\External agents\Accounts\Account\obj\Debug\Account.csproj.GenerateResource.Cache
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\Account.exe.config
+E:\programming\extranl client\20181110\External agents\Accounts\Account\obj\Debug\Account.exe
+E:\programming\extranl client\20181110\External agents\Accounts\Account\obj\Debug\Account.pdb
+E:\programming\extranl client\20181110\External agents\Accounts\Account\obj\Debug\Account.frmAcount.resources
+E:\programming\extranl client\20181110\External agents\Accounts\Account\obj\Debug\Account.frmOut.resources
+E:\programming\extranl client\20181110\External agents\Accounts\Account\obj\Debug\Account.frmSearchAccountNM.resources
+E:\programming\extranl client\20181110\External agents\Accounts\Account\obj\Debug\Account.Properties.Resources.resources
+E:\programming\extranl client\20181110\External agents\Accounts\Account\obj\Debug\Account.frmIncoming.resources
+E:\programming\extranl client\20181110\External agents\Accounts\Account\obj\Debug\Account.csproj.GenerateResource.Cache
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\Account.exe
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\Account.pdb
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\CrystalDecisions.Shared.dll
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\FlashControlV71.dll
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\stdole.dll
+E:\programming\extranl client\20181110\External agents\Accounts\Account\bin\Debug\ShockwaveFlashObjects.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\Account.exe.config
+E:\programming\extranl client\20181116\External agents\Accounts\Account\obj\Debug\Account.exe
+E:\programming\extranl client\20181116\External agents\Accounts\Account\obj\Debug\Account.pdb
+E:\programming\extranl client\20181116\External agents\Accounts\Account\obj\Debug\Account.frmAcount.resources
+E:\programming\extranl client\20181116\External agents\Accounts\Account\obj\Debug\Account.frmOut.resources
+E:\programming\extranl client\20181116\External agents\Accounts\Account\obj\Debug\Account.frmSearchAccountNM.resources
+E:\programming\extranl client\20181116\External agents\Accounts\Account\obj\Debug\Account.Properties.Resources.resources
+E:\programming\extranl client\20181116\External agents\Accounts\Account\obj\Debug\Account.csproj.GenerateResource.Cache
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\Account.exe
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\Account.pdb
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\CrystalDecisions.Shared.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\FlashControlV71.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\stdole.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\bin\Debug\ShockwaveFlashObjects.dll
+E:\programming\extranl client\20181116\External agents\Accounts\Account\obj\Debug\Account.frmSimpleConstrain.resources
+E:\programming\extranl client\20181116\External agents\Accounts\Account\obj\Debug\Account.frmSimple.resources
+E:\programming\extranl client\20181116\External agents\Accounts\Account\obj\Debug\Account.csprojResolveAssemblyReference.cache
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\Account.exe.config
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\Account.exe
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\Account.pdb
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\CrystalDecisions.Shared.dll
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\FlashControlV71.dll
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\stdole.dll
+E:\programming\extranl client\20181123\External agents\Accounts\Account\bin\Debug\ShockwaveFlashObjects.dll
+E:\programming\extranl client\20181123\External agents\Accounts\Account\obj\Debug\Account.frmAcount.resources
+E:\programming\extranl client\20181123\External agents\Accounts\Account\obj\Debug\Account.frmOut.resources
+E:\programming\extranl client\20181123\External agents\Accounts\Account\obj\Debug\Account.frmSearchAccountNM.resources
+E:\programming\extranl client\20181123\External agents\Accounts\Account\obj\Debug\Account.frmSimpleConstrain.resources
+E:\programming\extranl client\20181123\External agents\Accounts\Account\obj\Debug\Account.Properties.Resources.resources
+E:\programming\extranl client\20181123\External agents\Accounts\Account\obj\Debug\Account.frmSimple.resources
+E:\programming\extranl client\20181123\External agents\Accounts\Account\obj\Debug\Account.csproj.GenerateResource.Cache
+E:\programming\extranl client\20181123\External agents\Accounts\Account\obj\Debug\Account.exe
+E:\programming\extranl client\20181123\External agents\Accounts\Account\obj\Debug\Account.pdb
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\Account.pdb
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.Shared.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\FlashControlV71.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\stdole.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\ShockwaveFlashObjects.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\obj\Debug\Account.frmAcount.resources
+E:\programming\extranl client\20181124\External agents\Accounts\Account\obj\Debug\Account.frmOut.resources
+E:\programming\extranl client\20181124\External agents\Accounts\Account\obj\Debug\Account.frmSearchAccountNM.resources
+E:\programming\extranl client\20181124\External agents\Accounts\Account\obj\Debug\Account.frmSimpleConstrain.resources
+E:\programming\extranl client\20181124\External agents\Accounts\Account\obj\Debug\Account.Properties.Resources.resources
+E:\programming\extranl client\20181124\External agents\Accounts\Account\obj\Debug\Account.frmSimple.resources
+E:\programming\extranl client\20181124\External agents\Accounts\Account\obj\Debug\Account.csproj.GenerateResource.Cache
+E:\programming\extranl client\20181124\External agents\Accounts\Account\obj\Debug\Account.pdb
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\Account.dll.config
+E:\programming\extranl client\20181124\External agents\Accounts\Account\bin\Debug\Account.dll
+E:\programming\extranl client\20181124\External agents\Accounts\Account\obj\Debug\Account.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\Account.dll.config
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\Account.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\Account.pdb
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.Shared.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\FlashControlV71.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\stdole.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\bin\Debug\ShockwaveFlashObjects.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\obj\Debug\Account.csprojResolveAssemblyReference.cache
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\obj\Debug\Account.frmAcount.resources
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\obj\Debug\Account.frmOut.resources
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\obj\Debug\Account.frmSearchAccountNM.resources
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\obj\Debug\Account.frmSimpleConstrain.resources
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\obj\Debug\Account.Properties.Resources.resources
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\obj\Debug\Account.frmSimple.resources
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\obj\Debug\Account.csproj.GenerateResource.Cache
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\obj\Debug\Account.dll
+E:\programming\extranl client\extranl-client\نسخة عبدالرحمن سنان\20181124\External agents\Accounts\Account\obj\Debug\Account.pdb
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\Account.dll.config
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\Account.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\Account.pdb
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.Shared.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\FlashControlV71.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\stdole.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\ShockwaveFlashObjects.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.frmAcount.resources
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.frmOut.resources
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.frmSearchAccountNM.resources
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.frmSimpleConstrain.resources
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.Properties.Resources.resources
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.frmSimple.resources
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.csproj.GenerateResource.Cache
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.dll
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.pdb
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.frmSpend.resources
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.frmSttingAccounts.resources
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.frmRecive.resources
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.frmReciveReport.resources
+E:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.frmSpendReport.resources
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\Account.dll.config
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\Account.dll
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\Account.pdb
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\FrmRports.dll
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.Shared.dll
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\FlashControlV71.dll
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\ShockwaveFlashObjects.dll
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\stdole.dll
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\FrmRports.pdb
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.frmAcount.resources
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.frmOut.resources
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.frmRecive.resources
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.frmSearchAccountNM.resources
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.frmSpend.resources
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.frmReciveReport.resources
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.frmSpendReport.resources
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.frmSttingAccounts.resources
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.Properties.Resources.resources
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.frmSimple.resources
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.csproj.GenerateResource.Cache
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.dll
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.pdb
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\Transfer.dll
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\bin\Debug\Transfer.pdb
+D:\programming\extranl client\extranl-client\Abdulrahman Sinan Version\External agents\Accounts\Account\obj\Debug\Account.csprojResolveAssemblyReference.cache
